@@ -24,19 +24,25 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a JAVASCRIPT DEVELOPER with a passion for creating intuitive, dynamic user experiences. I have Exprience in  JavaScript, Vue.js, Vuex, Pinia, HTML, CSS, and Git. I am a team player who is driven to learn and grow. I am excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences on the web.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "JavaScript",
+  "Vue.js",
+  "Composition API",
+  "Vuex",
+  "Pinia",
+  "HTML5",
+  "CSS3",
+  "Git",
+  "GitHub",
+  "VS Code",
+  "aws-amplify",
+  "ant-design-vue",
 ];
 
 /**
